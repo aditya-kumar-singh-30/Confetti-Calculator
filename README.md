@@ -7,7 +7,7 @@ Before running this project, ensure that you have Node.js and npm (Node Package 
 Getting Started
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/react-confetti-calculator.git
+git clone https://github.com/aditya-kumar-singh-30/react-confetti-calculator.git
 
 2.Navigate to the project directory:
 
